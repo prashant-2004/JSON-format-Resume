@@ -1,0 +1,125 @@
+{
+  "Name": "Prashant Kale",
+  "Contact Information": {
+    "Email": "prashant.kale0406@gmail.com",
+    "Phone": "(+91) 9067807765",
+    "LinkedIn": "https://www.linkedin.com/in/prashant-sanjay-kale/",
+    "GitHub": "https://github.com/prashant-2004",
+    "Location": "Pune, India"
+  },
+  "Summary": "Self-motivated Student enthusiastic for Artificial Intelligence & Machine Learning with dedicated to Solving Complex Problems using an efficient way to continuously upgrade my knowledge, aiming to contribute meaningfully to the ever-evolving landscape of technology and data-driven solutions.",
+  "Skills": {
+    "AI Technology": [
+      "Object Oriented Python",
+      "OpenAI Whisper",
+      "Llama",
+      "Keras",
+      "LangChain",
+      "TensorFlow",
+      "PyTorch",
+      "Matplotlib",
+      "MICROSOFT Azure",
+      "Gen AI",
+      "NLP – LLM’s",
+      "Computer Vision",
+      "Object Detection – YOLO",
+      "NAS"
+    ],
+    "Development Technology": [
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "PHP",
+      "Next.js",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "RESTful API",
+      "Third-Party API",
+      "Google Cloud",
+      "MongoDB",
+      "MySQL",
+      "Postman",
+      "Git",
+      "GitHub",
+      "Replit"
+    ],
+    "Other Skills": [
+      "Data Structures & Algorithms in JAVA",
+      "Problem Solving",
+      "Teamwork",
+      "New Technologies"
+    ]
+  },
+  "Experience": [
+    {
+      "Job Title": "Data Science Intern",
+      "Company": "CodeClause",
+      "Start Date": "April 2023",
+      "End Date": "May 2023",
+      "Responsibilities": [
+        "Developed the different ML Models, DL Models for the predictions, recognitions & Generators.",
+        "Worked on the Loan Prediction Model, developed using Scikit-Learn Library of Python.",
+        "Implemented & trained using different Unsupervised ML Algorithms."
+      ],
+      "Location": "Remote"
+    },
+    {
+      "Job Title": "App Developer",
+      "Company": "Quiz-11 App",
+      "Start Date": "March 2024",
+      "End Date": "Present",
+      "Responsibilities": [
+        "Developed a responsive Android App using the React-Native & NodeJS Technology.",
+        "Integrated with the Firebase Cloud Service, for User Authentication, Real-time Database.",
+        "Integrated with the Payment Gateway, wallet configuration with the NodeJS for Bank Account Details."
+      ],
+      "Location": "Nagpur, India"
+    }
+  ],
+  "Education": [
+    {
+      "Degree": "B.Tech in Instrumentation and Control Engineering",
+      "Institution": "Vishwakarma Institute of Technology, Pune",
+      "Start Date": "2022",
+      "End Date": "2025",
+      "CGPA": "8.26"
+    },
+    {
+      "Degree": "Diploma in Information Technology",
+      "Institution": "Government Polytechnic Nanded",
+      "Start Date": "2019",
+      "End Date": "2022",
+      "Percentage": "88.44%"
+    }
+  ],
+  "Projects": [
+    {
+      "Title": "Visual Transformer Captioner: DL Image Captioning with Large-Scale Data Processing",
+      "Description": [
+        "Developed a Deep Learning Model which generates its own caption for the image, used the Git Version Control for this.",
+        "Trained by using the Flikr8k dataset from Kaggle, consist of 8k images with their captions. Experienced in large-scale data processing.",
+        "Uses the TensorFlow, PyTorch, Keras, Pydot and NLTK (Natural Language Toolkit) Python libraries.",
+        "Implemented Image Generation with Visual Transformers. Preprocess & analyze 8000 images with their Captions ensuring Data Quality, Data Augmentation."
+      ]
+    },
+    {
+      "Title": "Whisper: AI-Driven Text Generation and Language Translation Tool",
+      "Description": [
+        "Leveraged OpenAI's cutting-edge natural language processing capabilities through the whisper API to enable dynamic and contextually relevant text generation.",
+        "Integrated LangChain's advanced language translation algorithms into the platform to facilitate seamless communication across diverse linguistic contexts.",
+        "Implemented a fully integrated model with React.js, leveraging the Replit tool for seamless development and deployment."
+      ]
+    }
+  ],
+  "Certifications": [
+    "GOOGLE Certified: Introduction to Generative AI | 11/07/23",
+    "MICROSOFT Certified: Azure AI Fundamentals | 07/08/23",
+    "IBM Certified: Prompt Engineering Basics | 04/07/2024",
+    "IBM CERTIFIED: Python for Data Science, AI & Development | 10/07/2024",
+    "META Certified: React Basics by Coursera | 22/07/23",
+    "IBM CERTIFIED: Introduction to Cloud Computing | 01/07/2024",
+    "ISRO Certified: Geoprocessing using Python | 08/08/23",
+    "IBM Certified: Back-End Apps with Node.js & Express | 25/04/24"
+  ]
+}
